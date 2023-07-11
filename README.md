@@ -1,8 +1,8 @@
 # Web-development
 Web development refers to the creating, building, and maintaining of websites.
 Web Development can be classified into two ways:
-    *Frontend Development
-    *Backend Development
+    Frontend Development,
+    Backend Development
 **Frontend Development**
    This focus on the visual aspects of the website.It is used to design the websites using HTML,CSS,JS,Bootstrap.
 **HTML** 
