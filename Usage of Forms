@@ -3,20 +3,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>schoolings</title>
+	<title>FORM</title>
 </head>
 <body>
-	<h3>schoolings</h3>
-	<ol>
-		<li>Vimal jyothi </li>
-		<li>Suguna Rip</li>
-    </ol>
-    <ol type="i">
-    	<li>Jansons institute of technology</li>
-    </ol>
-    <ol start="3">
-    	<li>B.E CSE</li>
-    </ol>
+	
     <form class=""action="index.html"method="post">
     	<label>Your Name:</label>
     	<input type="text" name="Your Name"><br>
@@ -38,6 +28,8 @@
     	<input type="submit" name="">
         
     </form>
+</body>
+</html>
 
     	
     	
