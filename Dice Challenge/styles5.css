@@ -1,0 +1,56 @@
+h1{
+	position: absolute;
+	margin-left: 430px;
+	color: ghostwhite;
+	font-family:cursive;
+	font-size:100px ;
+	color: burlywood;
+}
+body {
+    background-color:#393f4d;
+	
+}
+.p1 {
+	color:burlywood ;
+	font-size: 25px;
+	position: absolute;
+	margin-top: 250px;
+	margin-left: 450px;
+	font-family: cursive;
+}
+.p2 {
+	color:burlywood ;
+	font-size: 25px;
+	position: absolute;
+	margin-top: 250px;
+	margin-left: 870px;
+	font-family: cursive;
+}
+.img1 {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	margin-top: 300px;
+	margin-left: 375px;
+
+}
+.img2 {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	margin-left: 800px;
+	margin-top: 300px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
