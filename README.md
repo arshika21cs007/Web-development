@@ -1,5 +1,7 @@
 <h1>Web-development</h1> 
 <p>Web development refers to the creating, building, and maintaining of websites.</p>
+<img src="https://scoopcar.com/wp-content/uploads/2020/05/videoblocks-targeted-web-development-solutions-as-an-animation-concept-4k-uhd-motion-video_bhcv2dxab_thumbnail-full09-1.png" width="50%" style="display: block; margin: 0 auto;">
+
 
 <h2>Web Development can be classified into two ways:</h2>
    <li>Frontend Development</li> 
