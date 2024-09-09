@@ -1,6 +1,9 @@
 <h1>Web-development</h1> 
 <p>Web development refers to the creating, building, and maintaining of websites.</p>
-<img src="https://scoopcar.com/wp-content/uploads/2020/05/videoblocks-targeted-web-development-solutions-as-an-animation-concept-4k-uhd-motion-video_bhcv2dxab_thumbnail-full09-1.png" width="50%" style="display: block; margin: 0 auto;">
+<p align="center">
+  <img src="https://scoopcar.com/wp-content/uploads/2020/05/videoblocks-targeted-web-development-solutions-as-an-animation-concept-4k-uhd-motion-video_bhcv2dxab_thumbnail-full09-1.png" width="50%" alt="Centered Image">
+</p>
+
 
 
 <h2>Web Development can be classified into two ways:</h2>
@@ -27,6 +30,4 @@
     <li>It can Create Visual Effects and Other Eye-catching Aesthetic Features.It helps me to become a renaissance programmer.</li>
     <li>There’s a comprehensive set of frameworks and libraries which makes my code easier.</li>
 
-<h2>React js</h2>
-    <li>React.js enables me to build highly dynamic and interactive user interfaces with ease.</li>
-    <li> This extensive toolkit simplifies complex operations, enabling me to focus on building features rather than reinventing the wheel.</li>
+
