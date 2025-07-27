@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(31, 31, 51);
+}
+.div1{
+    float: left;
+    margin-top: 60px;
+    margin-left: 106px ;
+    color:tomato;
+}
+.div2{
+float: right;
+ color:white;
+ font-size: medium;
+ 
+}
+
+ li{
+    
+    /* removes . from list,aligns all in one line */
+    /* Automatically removes bulletins if the words are not in list */
+     display: inline;
+     padding: 15px;
+     
+    } 
+    ul{
+        margin-top: 60px;
+        margin-right: 100px;
+    }
+    .row1{
+        width: 100%;
+        display: flex;
+    }
+    .col1{
+        width: 50%;
+        
+
+    }
+    .col2{
+        width: 50%;
+        margin-left: 10%;
+        
+    }
+    
+    .content1{
+        color: white;
+        padding-left: 106px; 
+        
+        font-size:xx-large;
+    }
+     .content2{
+        color: white;
+        font-size:large;
+        
+        
+        
+    }
+    .welcome{
+        color:tomato;
+         margin-top: 100px ;
+         padding-left: 106px;
+         
+    }
+     .row2{
+        width: 100%;
+        display: flex;
+    }
+     .col3{
+        width: 50%;
+        margin-left: 13%;
+        margin-top: 5%;
+    }
+    .col4{
+        width: 50%;
+        margin-right: 18%;
+        margin-top: 10%;
+        color: white;
+    }
+
+    .hello{
+        margin-left: 10%;
+        
+        
+    }
+    .content3{
+        margin-left: 10%;
+        margin-top: 2%;
+       font-size: large;
+       font-family:monospace;
+      
+    }
+   .table1{
+    margin-left: 10%;
+   }
+   .btn{
+    border-radius: 600px;
+    padding:10px;
+    padding-top: 20px;
+    margin-left: 30%;
+    border-color: tomato;
+    color: tomato;
+    font-size: large;
+    }
+    .btn1{
+    border-radius: 600px;
+    padding:10px;
+    padding-top: 20px;
+    margin-left: 15%;
+    border-color: tomato;
+    color: tomato;
+    font-size: large;
+    }
+    .btn2{
+    border-radius: 600px;
+    padding:10px;
+    padding-top: 20px;
+    margin-right: 10%;
+    border-color: tomato;
+    color: tomato;
+    font-size: large;
+    }
